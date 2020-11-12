@@ -3,7 +3,7 @@
 We are here to find the most famous repositories of a given organization on Github based on the number of forks. 
 Also for each top n such repositories we have to find the top m committees. 
 
-Step1=> Write the following command in Command prompt:-   
+Step1=> Run the following command in Command prompt:-   
 pip install requests
 
 Step2=> Now we wil need a python3 ide for example- Spyder,PyCharm.
