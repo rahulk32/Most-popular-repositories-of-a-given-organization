@@ -14,3 +14,9 @@ Step3=> Now run get_repos.py program file on python ide for getting repositories
          And m is number of top committes that we want to know for above repositories).
 
 After giving the input you will get top n famous repositories of a given organization on Github and their top m committes.
+
+Output:-
+
+
+![Screenshot (17)](https://user-images.githubusercontent.com/67874102/99031944-481f3f80-259e-11eb-9fa6-19cab48d203d.png)
+
